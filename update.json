@@ -1,11 +1,11 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "download_url": "https://github.com/sfy5671/land-scrivener-release/releases/latest/download/LandScrivenerSetup.exe",
   "notes": [
-    "稅務計算獨立專區＋土增稅精算（持有年數依前次/本次移轉年月自動帶入物價指數）",
-    "三法估價與房貸試算（比較法/收益法/成本法）",
-    "本版起接上官方自動更新通道"
+    "全站介面資源本機化，離線也能正常顯示",
+    "開通頁加客服聯絡與線上購買入口、AI 金鑰設定頁加卡關求助",
+    "側邊欄新增使用說明入口"
   ],
   "mandatory": false,
-  "sha256": "149d1a093996ae056b519d986bc5734a713e1fda446eb71df9d7132b7c5fdd65"
+  "sha256": "efb590961c91f26c84c7e793ac987e4701480d3f2ab1cfad21440f6987046024"
 }
