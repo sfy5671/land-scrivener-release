@@ -1,13 +1,12 @@
 {
-  "version": "1.0.33",
+  "version": "1.0.34",
   "download_url": "https://github.com/sfy5671/land-scrivener-release/releases/latest/download/LandScrivenerSetup.exe",
   "notes": [
-    "電子謄本 PDF 免 AI 直接轉入，不需設定 AI 金鑰",
-    "案件法定期限提醒：首頁顯示逾期與即將到期，案件頁可勾已辦妥",
-    "授權與更新頁顯示年度更新維護期，到期前 60 天提醒",
-    "客戶生日改用民國年輸入",
-    "左側選單依功能分組"
+    "電子謄本轉入支援更多縣市版面，修正跨頁所有權人漏抓",
+    "謄本有查封、預告登記、信託等登記時醒目提醒",
+    "出生、死亡、收件、原因發生、補正通知、立約等日期改用民國年輸入",
+    "動畫使用說明更新：選單分組、期限提醒語音解說"
   ],
   "mandatory": true,
-  "sha256": "af4ddb3205bfcc8425108d02e8cef558945edd2215913e8e3eba5f848a3cc7c6"
+  "sha256": "0dd72c48aadfc413cf866a69a14b36fdde81ff88ba2cfd9242f4752005b455f7"
 }
